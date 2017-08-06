@@ -16,7 +16,7 @@ destination_directory = "your Destination Directory Path"
 
 3. If you would like to modify the **exclusion** file list edit the extensions after `!=` :
  ```
- if file_extension != '.ini' and '.txt'
+ if file_extension != '.ini' and '.txt':
  ```
 
 4. Run the script
