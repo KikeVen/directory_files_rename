@@ -26,7 +26,7 @@ If you would like to turn the **"exclude"** list into an **"include"** list, cha
 ```
 if file_extension == '.doc' and '.pdf'
 ```
-This will **only** rename/move files ending in '.doc' and '.pdf' in the **source_directory**
+This will **only** move/rename files ending in **'.doc'** and **'.pdf'** in the **source_directory**
 
 
 :shipit:
